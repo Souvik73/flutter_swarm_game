@@ -1,5 +1,5 @@
 # flutter_swarm_game
-The UI of this app is similar to WhatsApp. this App is called ChatApp
+It is a game made using flutter with its package flame.
 
 ## Getting Started
 You can build apps with Flutter using any text editor combined with our command-line tools. However, I recommend using one of Flutter's editor plugins for an even better experience. These plugins provide you with code completion, syntax highlighting, widget editing assists, run & debug support, and more.
